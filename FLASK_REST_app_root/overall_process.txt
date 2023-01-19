@@ -1,0 +1,3 @@
+ok lets first set up a database in the same way
+then wew will maaybe  look at blueprints but i think 
+i just need to focus on data modeling and many to many
